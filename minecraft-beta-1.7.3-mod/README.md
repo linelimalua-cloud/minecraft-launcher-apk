@@ -1,4 +1,4 @@
-# Minecraft Beta 1.7.3 Mod Pack
+# Minecraft Mod - Bedrock Beta
 
 ## 📦 Conteúdo
 
@@ -35,7 +35,7 @@
 ## 📝 Estrutura
 
 ```
-minecraft-beta-1.7.3-mod/
+Minecraft-Mod-BedrockBeta/
 ├── RP/
 │   ├── manifest.json
 │   ├── texts/
